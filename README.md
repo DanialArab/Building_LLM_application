@@ -2,6 +2,9 @@
 
 https://www.deeplearning.ai/the-batch/issue-294/
 
+First, while fine-tuning is an important and valuable technique, many teams that are currently using it probably could get good results with simpler approaches, such as prompting (including writing mega prompts), few-shot prompting, or simple agentic workflows.
+
+
 https://www.deeplearning.ai/the-batch/from-prompts-to-mega-prompts/?utm_campaign=The%20Batch&utm_medium=email&_hsenc=p2ANqtz-_ZSXRCYtNKbdkb1OTRDF24ySlHj3jlGYwLRTcmlCS1i7U6840Ws0bgp3iPx45M1_ZOmN5U6mHxBHLfMcSZmt-zuK0U4A&_hsmi=353823758&utm_content=353823758&utm_source=hs_email:
 
 When building complex workflows, I see developers getting good results with this process:
