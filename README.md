@@ -8,3 +8,10 @@ When building complex workflows, I see developers getting good results with this
 - Based on where the output falls short, flesh out the prompt iteratively. This often leads to a longer, more detailed, prompt, perhaps even a mega-prompt.
 - If that’s still insufficient, consider few-shot or many-shot learning (if applicable) or, less frequently, fine-tuning.
 - If that still doesn’t yield the results you need, break down the task into subtasks and apply an agentic workflow.
+
+I hope a process like this will help you build applications more easily. If you’re interested in taking a deeper dive into prompting strategies, I recommend the Medprompt paper, which lays out a complex set of prompting strategies that can lead to very good results.
+
+https://arxiv.org/abs/2311.16452?utm_campaign=The%20Batch&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-9KTqJYw8uJZw37gIcadWEifUEAY1kRzzf5aaShK5nAYEb1Or4KdseKy3s6Q_dyLgXQYnJE
+
+
+
